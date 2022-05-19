@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBnApK/5+hhb/8iRvZbGdrUlqSJvJDxxsjfoFrFHPSdYy2ixZx1FGlWVA5yLZct2TOk47ZgUw/6FMfOTtAf0Zw==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\Dio.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
